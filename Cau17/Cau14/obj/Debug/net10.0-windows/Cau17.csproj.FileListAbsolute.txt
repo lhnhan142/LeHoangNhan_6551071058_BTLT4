@@ -1,0 +1,17 @@
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\bin\Debug\net10.0-windows\Cau17.exe
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\bin\Debug\net10.0-windows\Cau17.deps.json
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\bin\Debug\net10.0-windows\Cau17.runtimeconfig.json
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\bin\Debug\net10.0-windows\Cau17.dll
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\bin\Debug\net10.0-windows\Cau17.pdb
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau14.Form1.resources
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.csproj.GenerateResource.cache
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.AssemblyInfoInputs.cache
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.AssemblyInfo.cs
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.dll
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\refint\Cau17.dll
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.pdb
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.genruntimeconfig.cache
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\ref\Cau17.dll
+D:\Download\Lập trình trực quan\Buổi 2\Cau17\Cau14\obj\Debug\net10.0-windows\Cau17.csproj.Up2Date
