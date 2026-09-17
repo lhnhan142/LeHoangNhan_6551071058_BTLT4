@@ -1,0 +1,17 @@
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.Form1.resources
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.csproj.GenerateResource.cache
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.AssemblyInfoInputs.cache
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.AssemblyInfo.cs
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\bin\Debug\net10.0-windows\Cau4.exe
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\bin\Debug\net10.0-windows\Cau4.deps.json
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\bin\Debug\net10.0-windows\Cau4.runtimeconfig.json
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\bin\Debug\net10.0-windows\Cau4.dll
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\bin\Debug\net10.0-windows\Cau4.pdb
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.dll
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\refint\Cau4.dll
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.pdb
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.genruntimeconfig.cache
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\ref\Cau4.dll
+D:\Download\Lập trình trực quan\Bài Tập Lớn\Cau4\Cau4\obj\Debug\net10.0-windows\Cau4.csproj.Up2Date
